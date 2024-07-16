@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @NJRandall
+- 👀 I’m a masters university student studying mechatronics in Australia 
+- 🌱 This account is primairly for personal projects

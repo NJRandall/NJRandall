@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Nick Randall
-- 👀 I’m a masters student studying mechatronics in Australia
-- My repositories contain either work I've done for projects at uni or are components of a gaming/novelty chat companion toy I've been creating using the M5stack Core2 and the chatGPT API.
-- 
+
